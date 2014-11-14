@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "03E8E9DC1A15E71C00D0EFA4"
-               BuildableName = "rollen.app"
+               BuildableName = "Rollen.app"
                BlueprintName = "rollen"
                ReferencedContainer = "container:rollen.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "03E8E9DC1A15E71C00D0EFA4"
-            BuildableName = "rollen.app"
+            BuildableName = "Rollen.app"
             BlueprintName = "rollen"
             ReferencedContainer = "container:rollen.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "03E8E9DC1A15E71C00D0EFA4"
-            BuildableName = "rollen.app"
+            BuildableName = "Rollen.app"
             BlueprintName = "rollen"
             ReferencedContainer = "container:rollen.xcodeproj">
          </BuildableReference>
@@ -94,7 +94,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "03E8E9DC1A15E71C00D0EFA4"
-            BuildableName = "rollen.app"
+            BuildableName = "Rollen.app"
             BlueprintName = "rollen"
             ReferencedContainer = "container:rollen.xcodeproj">
          </BuildableReference>

@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         
         // Go to page
         let urlString:NSString = "http://www.rollen.co/";
-        let url:NSURL = NSURL.URLWithString(urlString)
+        let url:NSURL = NSURL(string: urlString)!
         let request:NSURLRequest = NSURLRequest(URL: url, cachePolicy: NSURLRequestCachePolicy.ReloadIgnoringLocalCacheData, timeoutInterval: 60)
         webView.loadRequest(request)
     }
