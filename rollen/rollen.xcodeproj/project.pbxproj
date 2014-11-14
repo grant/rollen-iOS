@@ -25,7 +25,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		03E8E9DD1A15E71C00D0EFA4 /* rollen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rollen.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		03E8E9DD1A15E71C00D0EFA4 /* Rollen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rollen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		03E8E9E11A15E71C00D0EFA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		03E8E9E21A15E71C00D0EFA4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		03E8E9E41A15E71C00D0EFA4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,7 +66,7 @@
 		03E8E9DE1A15E71C00D0EFA4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				03E8E9DD1A15E71C00D0EFA4 /* rollen.app */,
+				03E8E9DD1A15E71C00D0EFA4 /* Rollen.app */,
 				03E8E9EF1A15E71C00D0EFA4 /* rollenTests.xctest */,
 			);
 			name = Products;
@@ -126,7 +126,7 @@
 			);
 			name = rollen;
 			productName = rollen;
-			productReference = 03E8E9DD1A15E71C00D0EFA4 /* rollen.app */;
+			productReference = 03E8E9DD1A15E71C00D0EFA4 /* Rollen.app */;
 			productType = "com.apple.product-type.application";
 		};
 		03E8E9EE1A15E71C00D0EFA4 /* rollenTests */ = {
@@ -327,7 +327,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = rollen/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Rollen;
 			};
 			name = Debug;
 		};
@@ -338,7 +338,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = rollen/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Rollen;
 			};
 			name = Release;
 		};
