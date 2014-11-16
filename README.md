@@ -1,4 +1,3 @@
-rollen-iOS
-==========
+# rollen iOS
 
-You know.
+The iOS app to rollen.co
